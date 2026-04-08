@@ -5,6 +5,7 @@ drinkt = "56";
 let cups = Math.random() > 0.5 ? 10 : 5;
 let channelname = "chai aur code";
 channelname = "261";
+// UNION TYPES IN TYPESCRIPT
 let subs = "10M";
 let apiRequest = "pending";
 apiRequest = "success"; // valid
