@@ -106,4 +106,5 @@ function servechai(chai) {
 // constructor is taking aarguments and creating objects  and i dont use instanceof because both classes have same method serve and it is not necessary to check the type of object as
 //   both will return the same type of string message so we can directly call the serve method without checking the type of object
 console.log(servechai(cutting1));
-console.log(servechai(kulhad1));        //# sourceMappingURL=typenarrowing.js.map
+console.log(servechai(kulhad1));
+//# sourceMappingURL=typenarrowing.js.map

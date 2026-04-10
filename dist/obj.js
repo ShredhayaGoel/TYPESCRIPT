@@ -69,4 +69,6 @@ function pass(item) {
 }
 console.log(pass({ name: "SHREDHAYA GOEL", age: 21 }));
 console.log(pass("Hello"));
+console.log(check({ name: "SHREDHAYA GOEL", age: 21 })); // true
+console.log(check("Hello")); // false
 //# sourceMappingURL=obj.js.map
